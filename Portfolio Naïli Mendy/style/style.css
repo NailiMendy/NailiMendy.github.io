@@ -1,0 +1,132 @@
+head, img {
+    width: 150px;
+    height: 150px;
+ 
+}
+
+
+#index.html{
+    height: 100vh;
+}
+
+#productions.html{
+    height: 600vh;
+}
+
+
+
+a{
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+li:hover{
+    color: grey;
+    transition: 0.5s;   
+}
+
+
+h1{
+    font-family: "Noto Sans JP";
+    color: #504B43;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1.7em;
+}
+
+ul{
+    margin-left: 320px;
+    color: #504B43;
+    display: flex;
+    width: 600px;
+    justify-content:space-between;
+    text-align: center;
+    margin-top: 40px;
+}
+
+li{
+    font-family: "Noto Sans JP"
+    text-align: center;
+    color: #504B43;
+}
+
+
+body{
+    font-family: avenir black;
+
+
+}
+
+
+img {
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+
+}
+
+
+
+
+
+.div-productions img {
+
+    width: 25vh;
+    height: 40vh;
+
+    
+    
+}
+
+.div-productions {
+    display: flex;
+
+}
+
+.portrait {
+
+    width: 30vh;
+    height: 40vh;
+
+
+}
+
+
+p{
+    top: 300px;
+    margin-right: 300px;
+    position: absolute;
+    margin-left: 300px;
+    font-family: futura medium;
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+#naili{
+    margin-top: 20px;
+    width: 400px;
+    margin-left: 600px;
+}
+
+#intro{
+        width: 1200px;
+        height: 800px;
+        margin-top: 80px;
+       
+}
+
+#apropos{
+        width: 1200px;
+        height: 800px;
+        margin-top: 80px;
+       
+}
+
+ 
+
+
